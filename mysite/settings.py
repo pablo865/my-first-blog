@@ -25,8 +25,8 @@ SECRET_KEY = 'lrspt$d%an8b3k+@%bcrnj_5f)c4_mdci&6ij2&8j-d$4e*$oo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["djangopablo.pythonanywhere.com"]
-#ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywere.com']
+#ALLOWED_HOSTS = ["djangopablo.pythonanywhere.com"]
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywere.com']
 
 # Application definition
 
